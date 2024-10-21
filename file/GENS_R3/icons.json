@@ -1,0 +1,34 @@
+{
+	"c3-app-icons": [
+		{
+			"src": "icons\\иконка-16.png",
+			"width": 16,
+			"height": 16
+		},
+		{
+			"src": "icons\\иконка-32.png",
+			"width": 32,
+			"height": 32
+		},
+		{
+			"src": "icons\\иконка-64.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"src": "icons\\иконка-128.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"src": "icons\\иконка-256.png",
+			"width": 256,
+			"height": 256
+		},
+		{
+			"src": "icons\\иконка-512.png",
+			"width": 512,
+			"height": 512
+		}
+	]
+}
